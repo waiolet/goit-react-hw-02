@@ -1,0 +1,31 @@
+.wrapper {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* min-height: 100vh; */
+}
+
+.card {
+    /* width: 40%; */
+    /* height: 600px; */
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 1%;
+    box-sizing: border-box;
+    box-shadow: 0 0 4px 6px lightgray;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+    gap: 10px;
+}
+
+.button {
+    background-color: lightgray;
+}

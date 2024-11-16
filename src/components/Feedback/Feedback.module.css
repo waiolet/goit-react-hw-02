@@ -1,0 +1,40 @@
+.tableContainer {
+    padding-top: 100px;
+}
+
+.wrapper {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    /* box-shadow: 0 0 4px 6px lightgray; */
+}
+
+/* .tableNames {
+  background-color: #1e2023;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+}
+
+.tableNames th {
+  width: 33.33%;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 10px; 
+  text-align: center;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: lightgray; 
+} */
